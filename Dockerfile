@@ -1,4 +1,4 @@
-FROM eeacms/docker-gc
+FROM spotify/docker-gc
 
 MAINTAINER Chris Fordham <chris@fordham-nagy.id.au>
 
